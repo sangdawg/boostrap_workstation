@@ -1,8 +1,8 @@
 # Boostrap New Workstation
 
 ### Proxy 
-1. Install hiddify
-2. Get config files
+1. Install Hiddify
+2. Get config from password vault
 
 ### Install Apps
 - todo
