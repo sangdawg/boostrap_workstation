@@ -1,11 +1,9 @@
 # Boostrap New Workstation
 
-### Proxy 
-1. Install Hiddify
-2. Get config from password vault
-
-### Install Apps
-- todo
+### Proxy + Baseline Apps 
+1. Install Bitwarden extension for Firefox, then log in
+2. Run ```install_hiddify.sh```, configure it with the proxy URL
+3. ```sudo 1_baseline_apps.sh```
 
 
 ### Configure Swap
