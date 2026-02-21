@@ -5,6 +5,10 @@
 2. Run ```install_hiddify.sh```, configure it with the proxy connection URL
 3. ```sudo ./1_baseline_apps.sh```
 
+### Import ssh keypair  
 
+1. Run ```2_import_keypair.sh``` and make sure to have public and private keys ready
+
+ 
 ### Configure Swap
 - todo
