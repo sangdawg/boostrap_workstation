@@ -9,6 +9,10 @@
 
 1. Run ```2_import_keypair.sh``` and make sure to have public and private keys ready
 
- 
+### Set up rclone
+
+- https://github.com/sangdawg/nixloser/tree/main/rclone
+
+
 ### Configure Swap
 - todo
